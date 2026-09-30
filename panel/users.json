@@ -1,0 +1,47 @@
+[
+    {
+        "username": "ata",
+        "password": "2345",
+        "role": "user"
+    },
+    {
+        "username": "eaea",
+        "password": "54321",
+        "role": "user"
+    },
+    {
+        "username": "rtrt",
+        "password": "3232",
+        "role": "user"
+    },
+    {
+        "username": "taha",
+        "password": "23132",
+        "role": "user"
+    },
+    {
+        "username": "wate",
+        "password": "5678",
+        "role": "user"
+    },
+    {
+        "username": "wewe",
+        "password": "1234",
+        "role": "user"
+    },
+    {
+        "username": "erere",
+        "password": "2121",
+        "role": "user"
+    },
+    {
+        "username": "ewew",
+        "password": "567",
+        "role": "user"
+    },
+    {
+        "username": "tyt",
+        "password": "2323",
+        "role": "user"
+    }
+]

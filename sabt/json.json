@@ -1,0 +1,140 @@
+[
+    {
+        "status": "ارسال شده",
+        "company": "پست پیشتاز",
+        "code": "TRK1234567890",
+        "receiver": "علی رضایی"
+    },
+    {
+        "status": "در راه",
+        "company": "پست پیشتاز",
+        "code": "TRK0987654321",
+        "receiver": "مریم حسینی"
+    },
+    {
+        "status": "تحویل شده",
+        "company": "پست پیشتاز",
+        "code": "TRK1122334455",
+        "receiver": "سینا محمدی"
+    },
+    {
+        "status": "در راه",
+        "company": "تیپاکس",
+        "code": "TRK5566778899",
+        "receiver": "نگار احمدی"
+    },
+    {
+        "status": "ارسال شده",
+        "company": "پست پیشتاز",
+        "code": "TRK6677889900",
+        "receiver": "پویا نوری"
+    },
+    {
+        "status": "تحویل شده",
+        "company": "تیپاکس",
+        "code": "TRK2233445566",
+        "receiver": "فاطمه کریمی"
+    },
+    {
+        "status": "در راه",
+        "company": "پست پیشتاز",
+        "code": "TRK3344556677",
+        "receiver": "امیرحسین قربانی"
+    },
+    {
+        "status": "تحویل شده",
+        "company": "پست پیشتاز",
+        "code": "TRK4455667788",
+        "receiver": "زهرا یوسفی"
+    },
+    {
+        "receiver": "رها ",
+        "code": "234567890-",
+        "company": "تیپاکس",
+        "status": "ارسال شده"
+    },
+    {
+        "receiver": "رهام",
+        "code": "1234567890",
+        "company": "پست پیشتاز",
+        "status": "در راه"
+    },
+    {
+        "receiver": "mmd,",
+        "code": ",f,gpdlpd",
+        "company": "تیپاکس",
+        "status": "ارسال شده"
+    },
+    {
+        "receiver": "dfghnm",
+        "code": "dfghn",
+        "company": "پست پیشتاز",
+        "status": "ارسال شده"
+    },
+    {
+        "receiver": "بفب",
+        "code": "234567sdfghjk",
+        "company": "پست پیشتاز",
+        "status": "ارسال شده"
+    },
+    {
+        "receiver": "wate",
+        "code": "123456789wret",
+        "company": "پست پیشتاز",
+        "status": "ارسال شده"
+    },
+    {
+        "receiver": "tatp",
+        "code": "234567891paoi",
+        "company": "اسنپ باکس",
+        "status": "در حال پردازش"
+    },
+    {
+        "receiver": "rsrs",
+        "code": "1234567890rgt",
+        "company": "تیپاکس",
+        "status": "در حال پردازش"
+    },
+    {
+        "receiver": "roham",
+        "code": "12345678910ra",
+        "company": "تیپاکس",
+        "status": "در حال پردازش"
+    },
+    {
+        "receiver": "wwww",
+        "code": "wwww123456789",
+        "company": "پست پیشتاز",
+        "status": "در حال پردازش"
+    },
+    {
+        "receiver": "tyt",
+        "code": "wwww123456789",
+        "company": "پست پیشتاز",
+        "status": "در حال پردازش"
+    },
+    {
+        "receiver": "uuu",
+        "code": "1234567890yuh",
+        "company": "تیپاکس",
+        "status": "در حال پردازش"
+    },
+    {
+        "receiver": "uuu",
+        "code": "1234567890sds",
+        "company": "اسنپ باکس",
+        "status": "در حال پردازش"
+    },
+    {
+        "receiver": "ftft",
+        "code": "234567890hgbg",
+        "company": "اسنپ باکس",
+        "status": "در حال پردازش"
+    },
+    {
+        "receiver": "mmd",
+        "code": "1234567890fdc",
+        "company": "اسنپ باکس",
+        "status": "در حال پردازش"
+    }
+]
